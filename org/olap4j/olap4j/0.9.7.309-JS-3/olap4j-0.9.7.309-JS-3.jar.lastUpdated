@@ -1,0 +1,11 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Tue Oct 30 15:34:50 CST 2018
+http\://jaspersoft.artifactoryonline.com/jaspersoft/third-party-ce-artifacts/.lastUpdated=1540884890931
+http\://repo.spring.io/snapshot/.lastUpdated=1540884774655
+@default-jasperreports-http\://jasperreports.sourceforge.net/maven2/.lastUpdated=1540884887900
+http\://repo.spring.io/snapshot/.error=
+http\://repo.spring.io/milestone/.error=
+http\://repo.spring.io/milestone/.lastUpdated=1540884805131
+https\://repo.maven.apache.org/maven2/.lastUpdated=1540884886869
+https\://repo.maven.apache.org/maven2/.error=
+http\://jasperreports.sourceforge.net/maven2/.error=Could not transfer artifact org.olap4j\:olap4j\:jar\:0.9.7.309-JS-3 from/to jasperreports (http\://jasperreports.sourceforge.net/maven2)\: Connection reset

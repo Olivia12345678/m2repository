@@ -1,0 +1,4 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Fri Oct 12 09:47:27 CST 2018
+@default-central-https\://repo.maven.apache.org/maven2/.lastUpdated=1539308847310
+https\://repo.maven.apache.org/maven2/.error=Could not transfer artifact org.apache.commons\:commons-collections4\:jar\:4.1 from/to central (https\://repo.maven.apache.org/maven2)\: Network is unreachable\: connect

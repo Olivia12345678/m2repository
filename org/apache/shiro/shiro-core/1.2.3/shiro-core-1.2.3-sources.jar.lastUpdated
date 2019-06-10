@@ -1,0 +1,5 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Tue Jul 31 14:21:45 CST 2018
+https\://repo.maven.apache.org/maven2/.lastUpdated=1533018105659
+http\://127.0.0.1\:8081/maven_repository/.error=Could not transfer artifact org.apache.shiro\:shiro-core\:jar\:sources\:1.2.3 from/to cffex-tdd-artifactory (http\://127.0.0.1\:8081/maven_repository)\: Connection refused\: connect
+@default-cffex-tdd-artifactory-http\://127.0.0.1\:8081/maven_repository/.lastUpdated=1533018033156

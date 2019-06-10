@@ -1,0 +1,9 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Thu Dec 06 14:41:52 CST 2018
+@default-spring-milestone-https\://repo.spring.io/milestone/.lastUpdated=1544078497579
+https\://dl.bintray.com/rabbitmq/maven-milestones/.lastUpdated=1544078510540
+https\://repo.spring.io/snapshot/.error=Could not transfer artifact org.projectlombok\:lombok\:pom\:1.16.20 from/to spring-snapshot (https\://repo.spring.io/snapshot)\: repo.spring.io
+https\://repo.spring.io/milestone/.error=Could not transfer artifact org.projectlombok\:lombok\:pom\:1.16.20 from/to spring-milestone (https\://repo.spring.io/milestone)\: repo.spring.io
+https\://repo.maven.apache.org/maven2/.lastUpdated=1544078512821
+@default-spring-snapshot-https\://repo.spring.io/snapshot/.lastUpdated=1544078497605
+https\://dl.bintray.com/rabbitmq/maven-milestones/.error=

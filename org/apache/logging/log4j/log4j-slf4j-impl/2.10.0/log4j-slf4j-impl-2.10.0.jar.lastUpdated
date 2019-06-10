@@ -1,0 +1,9 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Thu Dec 06 15:19:31 CST 2018
+@default-spring-milestone-https\://repo.spring.io/milestone/.lastUpdated=1544080744344
+https\://dl.bintray.com/rabbitmq/maven-milestones/.lastUpdated=1544080749278
+https\://repo.spring.io/snapshot/.error=
+https\://repo.spring.io/milestone/.error=Could not transfer artifact org.apache.logging.log4j\:log4j-slf4j-impl\:jar\:2.10.0 from/to spring-milestone (https\://repo.spring.io/milestone)\: Connect to repo.spring.io\:443 [repo.spring.io/35.241.58.96] failed\: Connection timed out\: connect
+https\://repo.maven.apache.org/maven2/.lastUpdated=1544080771483
+https\://repo.spring.io/snapshot/.lastUpdated=1544080748261
+https\://dl.bintray.com/rabbitmq/maven-milestones/.error=

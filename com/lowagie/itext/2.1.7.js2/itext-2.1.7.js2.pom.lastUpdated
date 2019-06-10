@@ -1,0 +1,11 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Tue Oct 30 15:31:47 CST 2018
+http\://jaspersoft.artifactoryonline.com/jaspersoft/third-party-ce-artifacts/.lastUpdated=1540884707015
+http\://repo.spring.io/snapshot/.lastUpdated=1540884703688
+@default-jasperreports-http\://jasperreports.sourceforge.net/maven2/.lastUpdated=1540884705750
+http\://repo.spring.io/snapshot/.error=
+http\://repo.spring.io/milestone/.error=
+http\://repo.spring.io/milestone/.lastUpdated=1540884704172
+https\://repo.maven.apache.org/maven2/.lastUpdated=1540884704859
+https\://repo.maven.apache.org/maven2/.error=
+http\://jasperreports.sourceforge.net/maven2/.error=Could not transfer artifact com.lowagie\:itext\:pom\:2.1.7.js2 from/to jasperreports (http\://jasperreports.sourceforge.net/maven2)\: Connection reset

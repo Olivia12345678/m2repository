@@ -1,0 +1,5 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Wed Aug 01 22:45:26 CST 2018
+https\://repo.maven.apache.org/maven2/.lastUpdated=1533134726993
+http\://127.0.0.1\:8081/maven_repository/.error=Could not transfer artifact com.mchange\:c3p0\:jar\:sources\:0.9.5.2 from/to cffex-tdd-artifactory (http\://127.0.0.1\:8081/maven_repository)\: Connection refused\: connect
+@default-cffex-tdd-artifactory-http\://127.0.0.1\:8081/maven_repository/.lastUpdated=1533134662525

@@ -1,0 +1,6 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Tue Jul 31 14:18:33 CST 2018
+https\://repo.maven.apache.org/maven2/.lastUpdated=1533017913403
+http\://127.0.0.1\:8081/maven_repository/.error=Could not transfer artifact com.cffex.wukong\:cap-web\:jar\:sources\:V1.05 from/to cffex-tdd-artifactory (http\://127.0.0.1\:8081/maven_repository)\: Connection refused\: connect
+https\://repo.maven.apache.org/maven2/.error=
+@default-cffex-tdd-artifactory-http\://127.0.0.1\:8081/maven_repository/.lastUpdated=1533017912041

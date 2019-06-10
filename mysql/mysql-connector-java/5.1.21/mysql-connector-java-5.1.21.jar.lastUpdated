@@ -1,0 +1,5 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Thu May 23 11:16:12 CST 2019
+http\://maven.aliyun.com/nexus/content/groups/public/.error=Could not transfer artifact mysql\:mysql-connector-java\:jar\:5.1.21 from/to alimaven (http\://maven.aliyun.com/nexus/content/groups/public/)\: Connect to archiva-maven-storage-prod.oss-cn-beijing.aliyuncs.com\:80 [archiva-maven-storage-prod.oss-cn-beijing.aliyuncs.com/111.13.210.56] failed\: Connection timed out\: connect
+https\://repo.maven.apache.org/maven2/.lastUpdated=1558581372290
+@default-alimaven-http\://maven.aliyun.com/nexus/content/groups/public/.lastUpdated=1543990406614
